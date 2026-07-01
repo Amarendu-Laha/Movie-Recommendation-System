@@ -316,3 +316,9 @@ This project is licensed under the MIT License.
 - LinkedIn: www.linkedin.com/in/amarendu1
 
 If you found this project helpful, don't forget to ⭐ star the repository!
+
+## Important
+
+Create a .env file in vscode which will have TMDB_API_KEY=yourapikey.
+You will get your api key from tmdb website.
+After that create a virtual environment and then continue.(.venv)
